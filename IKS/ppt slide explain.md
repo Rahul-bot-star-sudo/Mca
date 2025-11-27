@@ -1,11 +1,6 @@
-Bilkul — main tumhe **step-by-step sikhaata hoon ki presentation kaise explain karni hai**.
-Tumne jo 12-slide wali PPT banayi hai, structure sahi hai. Ab main tumhe **har slide ka exact bolne ka tarika** de raha hoon, taaki tum confidently explain kar sako — chahe viva ho, class presentation ho, ya interview.
 
----
 
 # 🧑‍🏫 **Kaise Explain Karna Hai — Slide-by-Slide Script**
-
-Neeche har slide ke liye tum kya bol sakte ho, simple language me:
 
 ---
 
@@ -98,26 +93,4 @@ Point: elitist, limited, Brahmin-dominated.
 
 ---
 
-# 🎤 **Presentation Tips (Very Important for You)**
 
-### ✔ Slow bolo
-
-### ✔ Har slide ko 40–60 seconds
-
-### ✔ Example do — “English nahi aata isliye job nahi milti”
-
-### ✔ Last me questions lo — confident lagta hai
-
----
-
-# 📥 Agar chaho to main ye bhi bana sakta hoon:
-
-✅ **Your full spoken script in Hinglish**
-✅ **Short 6-minute viva version**
-✅ **Detailed 12-minute classroom version**
-✅ **Handwritten notes style explanation**
-✅ **MCQs for exam use**
-
----
-
-Agar chaho to main **tumhari PPT ke hisab se voice-over style script** bhi bana du?
