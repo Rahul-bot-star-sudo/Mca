@@ -1,5 +1,7 @@
 ### Concept flow 
-'''Register
+---
+```
+Register
  → Password Hash
  → Default Role (MEMBER)
 
@@ -11,4 +13,4 @@ Request API
  → Auth Middleware (JWT)
  → Role Middleware (ADMIN / MEMBER)
  → Controller
- '''
+ ```
